@@ -17,6 +17,7 @@ namespace bouncingballs
         public Form1()
         {
             InitializeComponent();
+
         }
         Random random = new Random();
         private void Form1_Load(object sender, EventArgs e)
